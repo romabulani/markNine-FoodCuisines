@@ -1,3 +1,6 @@
-# markNine-FoodCuisines
-A simple react app made with as part of mark Nine of Level zero of neogcamp. 
-Live project can be found [here](https://yls1z.csb.app/).
+# Good Food, Good Mood!
+Description : An app which with list of famous dishes and their ingredients for world's 3 best Cuisines, Indian, Chinese and Italian.
+
+Tech Stack : ReactJS
+
+Live project is [here](https://yls1z.csb.app/).
